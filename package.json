@@ -11,7 +11,7 @@
     "cors": "^2.8.5",
     "debug": "~2.6.9",
     "express": "~4.16.1",
-    "express-fileupload": "^1.1.6-alpha.6",
+    "express-fileupload": "^1.1.9",
     "google-auth-library": "^5.5.1",
     "http-errors": "~1.6.3",
     "https-localhost": "^4.4.1",
